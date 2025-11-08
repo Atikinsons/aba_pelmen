@@ -1,0 +1,12 @@
+{
+    "users" : [
+        {
+            "id" : 1,
+            "name": "Bohdan",
+            "surname": "Senichak",
+            "photo_url": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+            "balance": 999999
+
+        }
+    ]
+}
