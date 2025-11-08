@@ -7,6 +7,13 @@
             "photo_url": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
             "balance": 999999
 
+        },
+        {
+            "id": 228,
+            "name": "Nikita",
+            "surname" :"Bohdanovych",
+            "photo_url": "https://a.wattpad.com/useravatar/forever_loadingYOUWN.256.767046.jpg",
+            "balance": 2881488
         }
     ]
 }
